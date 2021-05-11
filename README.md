@@ -14,25 +14,25 @@ If you use our algorithms in your research, please cite the following papers as 
 }  
 
 @inproceedings{wu2017consistent,  
-    title={{C}onsistent {W}eighted {S}ampling {M}ade {M}ore {P}ractical},  
-    author={Wu, Wei and Li, Bin and Chen, Ling and Zhang, Chengqi},  
-    booktitle={WWW},  
-    pages={1035--1043},  
-    year={2017}  
+&emsp;&emsp;title={{C}onsistent {W}eighted {S}ampling {M}ade {M}ore {P}ractical},  
+&emsp;&emsp;author={Wu, Wei and Li, Bin and Chen, Ling and Zhang, Chengqi},  
+&emsp;&emsp;booktitle={WWW},  
+&emsp;&emsp;pages={1035--1043},  
+&emsp;&emsp;year={2017}  
 }  
 
 @article{wu2017improved,  
-    title={{I}mproved {C}onsistent {W}eighted {S}ampling {R}evisited},  
-    author={Wu, Wei and Li, Bin and Chen, Ling and Zhang, Chengqi and Yu, Philip S},  
-    journal={IEEE Transactions on Knowledge and Data Engineering},  
-    pages={2332--2345},  
-    year={2019}  
+&emsp;&emsp;title={{I}mproved {C}onsistent {W}eighted {S}ampling {R}evisited},  
+&emsp;&emsp;author={Wu, Wei and Li, Bin and Chen, Ling and Zhang, Chengqi and Yu, Philip S},  
+&emsp;&emsp;journal={IEEE Transactions on Knowledge and Data Engineering},  
+&emsp;&emsp;pages={2332--2345},  
+&emsp;&emsp;year={2019}  
 }  
 
 @article{wu2020review,  
-    title={{A} {R}eview for {W}eighted {M}in{H}ash {A}lgorithms},  
-    author={Wu, Wei and Li, Bin and Chen, Ling and Gao, Junbin and Zhang, Chengqi},  
-    journal={IEEE Transactions on Knowledge and Data Engineering},  
-    year={2020},  
-    publisher={IEEE}  
+&emsp;title={{A} {R}eview for {W}eighted {M}in{H}ash {A}lgorithms},  
+&emsp;&emsp;author={Wu, Wei and Li, Bin and Chen, Ling and Gao, Junbin and Zhang, Chengqi},  
+&emsp;&emsp;journal={IEEE Transactions on Knowledge and Data Engineering},  
+&emsp;&emsp;year={2020},  
+&emsp;&emsp;publisher={IEEE}  
 }
