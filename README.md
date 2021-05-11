@@ -6,11 +6,11 @@ The algorithms can convert the weighted set into the fingerprint for similarity-
 If you use our algorithms in your research, please cite the following papers as reference in your publicaions:
 
 @inproceedings{wu2016canonical,  
-&emsp&emsptitle={{C}anonical {C}onsistent {W}eighted {S}ampling for {R}eal-{V}alue {W}eighted {M}in-{H}ash},  
-&emsp&emspauthor={Wu, Wei and Li, Bin and Chen, Ling and Zhang, Chengqi},  
-&emsp&emspbooktitle={ICDM},  
-&emsp&emsppages={1287--1292},  
-&emsp&emspyear={2016}  
+    title={{C}anonical {C}onsistent {W}eighted {S}ampling for {R}eal-{V}alue {W}eighted {M}in-{H}ash},  
+    author={Wu, Wei and Li, Bin and Chen, Ling and Zhang, Chengqi},  
+    booktitle={ICDM},  
+    pages={1287--1292},  
+    year={2016}  
 }  
 
 @inproceedings{wu2017consistent,  
