@@ -1,6 +1,6 @@
 # consistent-weighted-sampling
 
-This repository contains our developed algorithms for the variants of improved consistent weighted sampling (ICWS) from ICDM 2010, i.e., CCWS, PCWS, I2CWS.
+This repository contains our developed algorithms for the variants of improved consistent weighted sampling (ICWS) from ICDM 2010, including CCWS, PCWS, I2CWS.
 The algorithms can convert the weighted set into the fingerprint for similarity-based (i.e., Hamming distance) data mining and machine learning tasks, e.g., classification, retreival. etc. 
 
 If you use our algorithms in your research, please cite the following papers as reference in your publicaions:
