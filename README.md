@@ -1,7 +1,13 @@
 # consistent-weighted-sampling
+The weighted MinHash algorithms based on Consistent Weighted Sampling
 
-This repository contains our developed algorithms for the variants of improved consistent weighted sampling (ICWS) from ICDM 2010, including CCWS, PCWS, I2CWS.
-The algorithms can convert the weighted set into the fingerprint for similarity-based (i.e., Hamming distance) data mining and machine learning tasks, e.g., classification, retreival. etc. 
+The algorithms convert each weighted set into the hashcode for similarity-based data mining and machine learning tasks, e.g., classification, retreival, etc., by pairwise Hamming similarity calculation between the hashcodes.
+
+Here, we develop three algorithms 
+
+- CCWS
+- PCWS
+- I2CWS
 
 If you use our algorithms in your research, please cite the following papers as reference in your publicaions:
 
