@@ -5,9 +5,9 @@ The algorithms convert each weighted set into the hashcode for similarity-based 
 
 Here, we develop three algorithms 
 
-- CCWS
-- PCWS
-- I2CWS
+- CCWS. Wei Wu, Bin Li, Ling Chen, Chengqi Zhang. (2016). Canonical Consistent Weighted Sampling for Real-Value Min-Hash. Proceedings of the 16th International Conference on Data Mining. 1287-1292.
+- PCWS. Wei Wu, Bin Li, Ling Chen, Chengqi Zhang. (2017). Consistent Weighted Sampling Made More Practical. Proceedings of the 26th International World Wide Web Conference. 1035-1043.
+- I2CWS. Wei Wu, Bin Li, Ling Chen, Chengqi Zhang, Philip S. Yu. (2019). Improved Consistent Weighted Sampling Revisited. IEEE Transactions on Knowledge and Data Engineering. 31(12):2332-2345.
 
 If you use our algorithms in your research, please cite the following papers as reference in your publicaions:
 
