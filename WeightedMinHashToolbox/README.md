@@ -13,7 +13,12 @@ If you use our toolbox, please cite the following paper:
 &emsp;&emsp;pages={1-1},  
 }
 
-Before running the toolbox, please compile the following .cpp files because 4 algorithms call them. 
+
+Installation
+
+    pip install drhash
+
+Alternatively, you can download the toolbox from the repository. Before running the toolbox, please compile the following .cpp files because 4 algorithms call them. 
 
     g++ -std=c++11 cpluspluslib/gollapudi1_fingerprints.cpp -fPIC -shared -o cpluspluslib/gollapudi1_fingerprints.so
 
