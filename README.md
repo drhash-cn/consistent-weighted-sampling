@@ -42,5 +42,5 @@ If you use our algorithms in your research, please cite the following papers as 
 &emsp;&emsp;year={2022},  
 &emsp;&emsp;pages={2553--2573},  
 &emsp;&emsp;volume={34},  
-&emsp;&emsp;number={6},  
+&emsp;&emsp;number={6}
 }
