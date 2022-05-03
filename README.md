@@ -39,6 +39,8 @@ If you use our algorithms in your research, please cite the following papers as 
 &emsp;title={{A} {R}eview for {W}eighted {M}in{H}ash {A}lgorithms},  
 &emsp;&emsp;author={Wu, Wei and Li, Bin and Chen, Ling and Gao, Junbin and Zhang, Chengqi},  
 &emsp;&emsp;journal={IEEE Transactions on Knowledge and Data Engineering},  
-&emsp;&emsp;year={2020},  
-&emsp;&emsp;publisher={IEEE}  
+&emsp;&emsp;year={2022},  
+&emsp;&emsp;pages={2553--2573},
+&emsp;&emsp;volume={34},
+&emsp;&emsp;number={6},
 }
